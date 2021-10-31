@@ -2,7 +2,7 @@
 - 👋 Hi, Sou @NattanJohn, atualmente estou no 6 periodo de Sistemas de Informação 
 - 👀 Estou interessado em aprender novas tecnologias e também poder colaborar com a comunidade
 - 🚀 Aperfeiçoando ao máximo para entrar no mercado de trabalho como FrontEnd Junior
-- 🌱Estudando: HTML, CSS, JavaScript
+- 🌱Estudando: HTML, CSS, JavaScript, Bootstrap
 <div align="center">
   <a href="https://github.com/NattanJohn">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NattanJohn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
