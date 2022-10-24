@@ -1,4 +1,7 @@
-**HELLO WORLD**
+![Profile views](https://gpvc.arturio.dev/NattanJohn)
+
+**HELLO WORLD**<br/>
+
 - 👋 Hi, Sou @NattanJohn, atualmente estou no 3 periodo de Análise e Desenvolvimento de Sistemas.
 - 👀 Estou interessado em aprender novas tecnologias e também poder colaborar com a comunidade
 - 🚀 Aperfeiçoando ao máximo para entrar no mercado de trabalho como FrontEnd Junior
@@ -15,6 +18,7 @@
     <img align="center" alt="Nattan-bs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     <img align="center" alt="Nattan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Nattan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <br/>
 
 
 </div>
@@ -25,5 +29,9 @@
   <a href = "mailto:nattanjhon123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nattan-john-267a31219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5569984768248" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
- 
+  </div><br/><br/>
+  
+  <div align="right">
+  <img
+    src="https://raw.githubusercontent.com/cshum/imagor/master/testdata/dancing-banana.gif"/>
+</div><br/>
