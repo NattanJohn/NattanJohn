@@ -29,6 +29,6 @@
 </div><br/>
   
 <div align="right">
-  <img height="80cm"
+  <img height="81cm"
     src="https://raw.githubusercontent.com/cshum/imagor/master/testdata/dancing-banana.gif"/>
 </div>
