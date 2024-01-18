@@ -2,7 +2,7 @@
 
 **HELLO WORLD!**<br/>
 
-- 👋 Hi, Sou @NattanJohn, atualmente estou no 5 periodo de Análise e Desenvolvimento de Sistemas.
+- 👋 Hi, Sou @NattanJohn, atualmente estou no 2 periodo de Jogos Digitais, e ADS finalizada.
 - 👀 Estou interessado em aprender novas tecnologias e também poder colaborar com a comunidade
 - 🚀 Aperfeiçoando ao máximo para entrar no mercado de trabalho como FrontEnd Junior
 - 🌱Estudando: HTML, CSS, JavaScript, Bootstrap, ReactJS, NextJS...
