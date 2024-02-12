@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/NattanJohn)
 
-**HELLO WORLD!!!**<br/>
+**HELLO WORLD!**<br/>
 
 - 👋 Hi, Sou @NattanJohn, atualmente estou no 2 periodo de Jogos Digitais, e ADS finalizada.
 - 👀 Estou interessado em aprender novas tecnologias e também poder colaborar com a comunidade
