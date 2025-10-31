@@ -6,7 +6,7 @@
 🚀 Atualmente, sigo me aperfeiçoando para consolidar minha carreira como **FullStack**.  
 📚 Estudando no momento: **NestJS** e aprimorando cada vez mais minhas skills em **React, Next.js e Node.js**.  
 
----=
+----
 
 ## 🛠️ Habilidades  
 
