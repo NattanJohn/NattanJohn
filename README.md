@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Nattan John
 
-
 💻 **Desenvolvedor Fullstack** com experiência prática em soluções web modernas, utilizando **TypeScript, React, Node.js e PostgreSQL**.  
 🎯 Focado em performance, escalabilidade e experiência do usuário.  
 🚀 Atualmente, sigo me aperfeiçoando para consolidar minha carreira como **FullStack**.  
