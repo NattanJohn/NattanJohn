@@ -6,7 +6,6 @@
 📚 Estudando no momento: **NestJS** e aprimorando cada vez mais minhas skills em **React, Next.js e Node.js**.  
 
 ----
-
 ## 🛠️ Habilidades  
 
 <div align="center" style="display: inline_block"><br>
