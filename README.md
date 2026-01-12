@@ -7,9 +7,10 @@
 
 ---
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NattanJohn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NattanJohn&layout=compact&langs_count=7&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nattanjohn&theme=dark&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nattanjohn&layout=compact&theme=dark" height="165"/>
+</p>
 
 ---
 
