@@ -38,7 +38,6 @@ Tenho experiência em empresas como **Bean Softwares**, **Prefeitura de Balneár
 ### 🚀 DevOps & Ferramentas
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,vercel)
 
-
 ---
 
 ## 💼 Experiência Profissional
