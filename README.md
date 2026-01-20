@@ -3,7 +3,7 @@
 ##  🌐 Portfólio Profissional
 > 👉 **Confira meus projetos reais, cases de produção e aplicações em funcionamento**
 
-[![Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-nattan.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/🚀_Acessar_Meu_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nattan-john-portfolio.vercel.app/)
 
 ---
 
