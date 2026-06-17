@@ -2,8 +2,6 @@
 
 
 
-
-
 ##  🌐 Portfólio Profissional
 > 👉 **Confira meus projetos reais, cases de produção e aplicações em funcionamento**
 
